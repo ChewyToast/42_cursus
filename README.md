@@ -50,7 +50,7 @@
 <td align="center"><a href=https://github.com/ChewyToast/42_projects/tree/master/02_push_swap><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/02_push_swap.jpg"><a/></td>
 <td align="center"><a href=#><img width=40px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/logo_c.jpg"><a/></td>
 <td align="center">This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves.</td>
-<td align="center">DONE✨<!--<img width=360px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/Subscribed.jpg">--><a/></td>
+<td align="center">WORKING⚒️<!--<img width=360px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/Subscribed.jpg">--><a/></td>
 </tr>
 
 <tr>
