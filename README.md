@@ -1,5 +1,8 @@
-# <42_Cursus👨‍💻>
-
+<p align="center">
+  <a href="https://github.com/ChewyToast">
+    <img src="https://badge42.vercel.app/api/v2/cl8a35p1o00060hjtc2e3ktt3/stats?cursusId=21&coalitionId=204">
+  </a>
+</p>
 <table>
   
 <th align="center">
