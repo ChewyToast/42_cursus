@@ -3,27 +3,28 @@
     <img src="https://badge42.vercel.app/api/v2/cl8a35p1o00060hjtc2e3ktt3/stats?cursusId=21&coalitionId=204">
   </a>
 </p>
+<br>
 <table>
   
 <th align="center">
-<img width="420.5">
+<img width="500.5">
 <p>Project</p>
 </th>
 
 <th align="center">
-<img width="120.5">
+<img width="100">
 <p>Language</p>
 </th>
  
  
 <th align="center">
-<img width="220.5">
+<img width="225">
 <p>Description</p>
 </th>
  
   
 <th align="center">
-<img width="220.5">
+<img width="250.5">
 <p>Status</p>
 </th>
  
