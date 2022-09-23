@@ -44,10 +44,10 @@
 </tr>
  
 <tr>
-<td align="center"><a href=https://github.com/ChewyToast/42_projects/tree/master/01_ft_printf><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/01_ft_printf.jpg"><a/></td>
+<td align="center"><a href=https://github.com/ChewyToast/01_ft_printf><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/01_ft_printf.jpg"><a/></td>
 <td align="center"><a href=#><img width=40px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/logo_c.jpg"><a/></td>
 <td align="center">This project is pretty straight forward. It is about recoding "printf". The main goal is to learn how to use variadic arguments.</td>
-<td align="center">DONE✨<!--<img width=360px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/Subscribed.jpg">--><a/></td>
+<td align="center"><a href="https://github.com/ChewyToast/01_ft_printf"><img src="https://badge42.vercel.app/api/v2/cl8a35p1o00060hjtc2e3ktt3/project/2800784" alt="bmoll-pe's 42 ft_printf Score" /></a><a/></td>
 </tr>
 
 <tr>
