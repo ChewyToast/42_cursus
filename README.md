@@ -58,13 +58,6 @@
 </tr>
 
 <tr>
-<td align="center"><a href=https://github.com/ChewyToast/42_projects/tree/master/02_so_long><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/02_so_long.jpg"><a/></td>
-<td align="center"><a href=#><img width=40px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/logo_c.jpg"><a/></td>
-<td align="center">The goals of this project are similar to every other goal for this first year: being rigorous, level up in C programming, use basic algorithms, do some information research, and so forth.</td>
-<td align="center">WORKING⚒️<!--<img width=360px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/Subscribed.jpg">--><a/></td>
-</tr>
-
-<tr>
 <td align="center"><a href=https://github.com/ChewyToast/42_projects/tree/master/02_fractol><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/02_fractol.png"><a/></td>
 <td align="center"><a href=#><img width=40px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/logo_c.jpg"><a/></td>
 <td align="center">The objective of the project is to create a fractal exploration program, learning to use the MinilibX library.</td>
