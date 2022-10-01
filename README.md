@@ -37,7 +37,7 @@
 </tr>
 
 <tr>
-<td align="center"><a href=https://github.com/ChewyToast/42_projects/tree/master/01_ft_get_next_line><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/01_get_next_line.jpg"><a/></td>
+<td align="center"><a href=https://github.com/ChewyToast/01_get_next_line><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/01_get_next_line.jpg"><a/></td>
 <td align="center"><a href=#><img width=40px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/logo_c.jpg"><a/></td>
 <td align="center">The aim of this project is to make a function that returns a line ending with a newline, read from a file descriptor.</td>
 <td align="center">DONE✨<!--<img width=360px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/Subscribed.jpg">--><a/></td>
