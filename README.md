@@ -40,7 +40,7 @@
 <td align="center"><a href=https://github.com/ChewyToast/01_get_next_line><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/01_get_next_line.jpg"><a/></td>
 <td align="center"><a href=#><img width=40px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/logo_c.jpg"><a/></td>
 <td align="center">The aim of this project is to make a function that returns a line ending with a newline, read from a file descriptor.</td>
-<td align="center"><a href="https://github.com/ChewyToast/01_get_next_line"><img src="https://badge42.vercel.app/api/v2/cl8a35p1o00060hjtc2e3ktt3/project/2793034" alt="bmoll-pe's 42 Libft Score" /><a/></td>
+<td align="center"><a href="https://github.com/ChewyToast/01_get_next_line"><img src="https://badge42.vercel.app/api/v2/cl8a35p1o00060hjtc2e3ktt3/project/2793034" alt="bmoll-pe's 42 get_next_line Score" /><a/></td>
 </tr>
  
 <tr>
@@ -65,17 +65,17 @@
 </tr>
 
 <tr>
-<td align="center"><a href=https://github.com/ChewyToast/42_Cursus><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/02_pipex.PNG"><a/></td>
+<td align="center"><a href=https://github.com/ChewyToast/02_pipex><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/02_pipex.PNG"><a/></td>
 <td align="center"><a href=#><img width=40px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/logo_c.jpg"><a/></td>
 <td align="center">This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.</td>
-<td align="center"><a href=https://github.com/ChewyToast/42_Cursus><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/Subscribed.jpg"><a/></td>
+<td align="center"><a href=https://github.com/ChewyToast/02_pipex><img src="https://badge42.vercel.app/api/v2/cl8a35p1o00060hjtc2e3ktt3/project/2829601" alt="bmoll-pe's 42 pipex Score" /></td>
 </tr>
 
 <tr>
-<td align="center"><a href=https://github.com/ChewyToast/03_Philosofers><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/02_pipex.PNG"><a/></td>
+<td align="center"><a href=https://github.com/ChewyToast/03_Philosofers><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/03_philosofers.png"><a/></td>
 <td align="center"><a href=#><img width=40px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/logo_c.jpg"><a/></td>
 <td align="center">This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.</td>
-<td align="center"><a href=https://github.com/ChewyToast/42_Cursus><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/Subscribed.jpg"><a/></td>
+<td align="center"><a href=https://github.com/ChewyToast/03_Philosofers><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/Subscribed.jpg"><a/></td>
 </tr>
 
 </table>
