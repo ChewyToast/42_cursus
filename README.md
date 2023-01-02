@@ -75,7 +75,15 @@
 <td align="center"><a href=https://github.com/ChewyToast/03_Philosofers><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/03_philosofers.png"><a/></td>
 <td align="center"><a href=#><img width=40px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/logo_c.jpg"><a/></td>
 <td align="center">This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.</td>
-<td align="center"><a href=https://github.com/ChewyToast/03_Philosofers><img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/Subscribed.jpg"><a/></td>
+<td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8a35p1o00060hjtc2e3ktt3/project/2909519" alt="bmoll-pe's 42 Philosophers Score" /></a>
+</tr>
+
+<tr>
+<td align="center"><a https://github.com/ChewyToast/03_minishell>
+<img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/03_minishell.png"><a/></td>
+<td align="center"><a href=#><img width=40px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/logo_c.jpg"><a/></td>
+<td align="center">This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.</td>
+<td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8a35p1o00060hjtc2e3ktt3/project/2909519" alt="bmoll-pe's 42 Philosophers Score" /></a>
 </tr>
 
 </table>
