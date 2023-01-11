@@ -79,7 +79,7 @@
 </tr>
 
 <tr>
-<td align="center"><a https://github.com/ChewyToast/03_minishell>
+<td align="center"><a href=https://github.com/ChewyToast/03_minishell>
 <img src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/03_minishell.png"><a/></td>
 <td align="center"><a href=#><img width=40px src="https://github.com/ChewyToast/ChewyToast/blob/main/assets/logo_c.jpg"><a/></td>
 <td align="center">The objective of this project is for you to create a simple shell.</td>
